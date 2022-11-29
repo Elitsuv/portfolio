@@ -1,0 +1,51 @@
+body {
+    font-size: 15pt;
+    font-family: 'Teko' , sans-serif;
+    background-color: #030016;
+}
+
+span {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#36FF96, #96FFC7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(2px , 2px red);
+}
+
+.content {
+  margin-top: 10%;
+  margin-left: 1%;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+}
+
+span1 {
+  color: deeppink;
+}
+
+span2 {
+  color: royalblue
+}
+
+h2 {
+  font-size: 50px;
+  color: lightskyblue;
+}
+
+p {
+  font-size: 45px;
+  color: white;
+}
+
+.span3 .a:link {
+  color: yellow;
+  background-color: transparent;
+}
+
+.span4 .a:link {
+  color: yellow;
+  background-color: transparent;
+}
